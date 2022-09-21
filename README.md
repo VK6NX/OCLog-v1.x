@@ -42,7 +42,9 @@ Source code access requests are accepted via EE forum.
 
 ---
 
-## Use
+## Config
+
+
 <ins>ADIF support:</ins>
 Log exported in ADIF v3.1.2 (Clublog supported format) into local directory specified in Settings-Log Info-Path
 
