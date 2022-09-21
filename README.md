@@ -69,8 +69,6 @@ Format is as following:<br>
 
 Macro example:<br>
 <img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/cwmacro.png" width="75%" height="75%">
-
-
 ---
 
 ## Upcoming in future releases
