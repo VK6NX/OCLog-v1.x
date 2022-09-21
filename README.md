@@ -57,6 +57,5 @@ Format is as following:
 <b>${QSOID}</b> is the alias for current QSO number<br>
 
 Macro example:
-button 01 - replace with 'CQ DX'; button 01 test - replace with 'CQ DX ${MYCALL} ${MYCALL} K"
 ![Screenshot](https://github.com/VK6NX/OCLog-v1.x/blob/main/images/cwmacro.png)
 
