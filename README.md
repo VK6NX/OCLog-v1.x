@@ -69,3 +69,13 @@ Format is as following:<br>
 
 Macro example:<br>
 <img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/cwmacro.png" width="75%" height="75%">
+
+
+---
+
+## Upcoming in future releases
+
+- Edit/Add/Remove DXCC entries (ETA early Oct'22)
+- EE native Skimmer (and EE-based Dev version) seamless integration (ETA end of Oct'22). And the same time Telnet will be superseeded by TCI.
+- SSB macros (ETA early '23)
+- Configurable contest parameter (i.e. Country, Zone, etc), reflected in CW macros.
