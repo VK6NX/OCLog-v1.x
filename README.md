@@ -43,16 +43,17 @@ Source code access requests are accepted via EE forum.
 ---
 
 ## Config
+<p align="center">
 <img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/skimmer-settings.png" width="50%" height="50%">
-
+</p>
 <ins>ADIF support:</ins>
-Log exported in ADIF v3.1.2 (Clublog supported format) into local directory specified in Settings-Log Info-Path
+Log exported in ADIF v3.1.2 (Clublog supported format) into local directory specified in <i><b>Settings-Log Info-Path</i></b>
 
 <ins>General config:</ins>
-Settings-Station actual info is required to fulfill data into ADIF
+<i><b>Settings-Station</i></b> actual info is required to fulfill data into ADIF
 
 <ins>IP connections:</ins>
-Settings-Connection specifies local or remote TCI(ESDR3) and Telnet(SDC 15.24 and below) connectivity
+<i><b>Settings-Connection</i></b> specifies local or remote TCI(ESDR3) and Telnet(SDC 15.24 and below) connectivity
 
 <ins>CW macto:</ins>
 TCI-based automatic keyer support 4 sets of predefined macros, 15 buttons each set.
