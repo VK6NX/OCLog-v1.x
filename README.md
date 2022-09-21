@@ -1,5 +1,6 @@
 # OCLog-v1.x
-Ligntweight and very minimalistic cross-platform Logger for ESDR3 (EE transceivers SS2/SS2Pro/DX)
+Ligntweight and very minimalistic cross-platform Logger for ESDR3 (EE transceivers SS2/SS2Pro/DX)<br>
+<img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/skimmer.png" width="75%" height="75%">
 
 ---
 <ins>Prerequisites:</ins>
