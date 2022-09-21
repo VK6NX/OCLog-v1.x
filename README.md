@@ -56,7 +56,6 @@ Format is as following:
 <b>${SNDRST}</b> is the alias for RST sent to correspondent<br>
 <b>${QSOID}</b> is the alias for current QSO number<br>
 
-Macro example:
-![Screenshot](https://github.com/VK6NX/OCLog-v1.x/blob/main/images/cwmacro.png | width=100)
-
+Macro example:<br>
+`![](https://github.com/VK6NX/OCLog-v1.x/blob/main/images/cwmacro.png| width=100)`
 
