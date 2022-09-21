@@ -51,10 +51,10 @@ Settings-Connection specifies local or remote TCI(ESDR3) and Telnet(SDC 15.24 an
 TCI-based automatic keyer support 4 sets of predefined macros, 15 buttons each set.
 
 Format is as following:
-<b>${MYCALL}</b> is the alias for own callsign (defined in Settings)
-<b>${RCVCALL}</b> is the alias for correspondent callsign (defined in CALLSIGN field
-<b>${SNDRST}</b> is the alias for RST sent to correspondent
-<b>${QSOID}</b> is the alias for current QSO number 
+<b>${MYCALL}</b> is the alias for own callsign (defined in Settings)<br>
+<b>${RCVCALL}</b> is the alias for correspondent callsign (defined in CALLSIGN field<br>
+<b>${SNDRST}</b> is the alias for RST sent to correspondent<br>
+<b>${QSOID}</b> is the alias for current QSO number<br>
 
 Macro example:
 button 01 - replace with 'CQ DX'; button 01 test - replace with 'CQ DX ${MYCALL} ${MYCALL} K'
