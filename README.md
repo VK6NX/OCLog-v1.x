@@ -57,6 +57,4 @@ Format is as following:
 <b>${QSOID}</b> is the alias for current QSO number<br>
 
 Macro example:<br>
-`![Screenshot](https://github.com/VK6NX/OCLog-v1.x/blob/main/images/cwmacro.png| width=100)`
-- `![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)`
-  - ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+<img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/cwmacro.png" width="50" height="50">
