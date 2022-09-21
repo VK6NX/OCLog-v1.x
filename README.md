@@ -19,7 +19,7 @@ Currently supports SDC prior ver15.24 and prior via Telnet integration. In futur
 <ins>Linux, Android and IOSsupport:</ins>
 There is currently known issue with Linux-based static implementation. At this stage you have to compile and run dinamic App with Qt6.2.3 on you linux machine. We are looking to fix this issue ASAP.
 
-As the App is developed with Qt6 framework, hence can run on Android and IOS devices too (however at this stage we do not have Android and IOS versions publicly available; you have to compile it yourself from source).
+As the App is developed with Qt6 framework, hence it can run on Android and IOS devices too (however at this stage we do not have Android and IOS versions publicly available; you have to compile it yourself from source).
 
 Source code access requests are accepted via EE forum.
 
