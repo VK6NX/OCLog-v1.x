@@ -61,7 +61,7 @@ Log exported in ADIF v3.1.2 (Clublog supported format) into local directory spec
 <ins>CW macto:</ins>
 TCI-based automatic keyer support 4 sets of predefined macros, 15 buttons each set.
 
-Format is as following:
+Format is as following:<br>
 <b>${MYCALL}</b> is the alias for own callsign (defined in Settings)<br>
 <b>${RCVCALL}</b> is the alias for correspondent callsign (defined in CALLSIGN field<br>
 <b>${SNDRST}</b> is the alias for RST sent to correspondent<br>
