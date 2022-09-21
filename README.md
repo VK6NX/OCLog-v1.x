@@ -37,7 +37,7 @@ Source code access requests are accepted via EE forum.
 - move folder to desired location at you computer
 - run OC_log.exe
 
-### ins>Linux:</ins>
+### <ins>Linux:</ins>
 - compile from source under Qt6.3.2 dinamic
 
 ---
