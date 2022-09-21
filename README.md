@@ -47,7 +47,7 @@ Source code access requests are accepted via EE forum.
 <img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/skimmer-settings.png" width="50%" height="50%">
 </p>
 <ins>ADIF support:</ins>
-Log exported in ADIF v3.1.2 (Clublog supported format) into local directory specified in <i><b>'Settings-Log Info-Path'</i></b>
+Log exported in ADIF v3.1.2 (Clublog supported format) into local directory specified in <i><b>'Settings-Log Info-Path'</i></b><br>
 
 <ins>General config:</ins>
 <i><b>'Settings-Station'</i></b> actual info is required to fulfill data into ADIF
