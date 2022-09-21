@@ -68,7 +68,11 @@ Format is as following:<br>
 <b>${QSOID}</b> is the alias for current QSO number<br>
 
 Macro example:<br>
-<img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/cwmacro.png" width="75%" height="75%">
+<table>
+  <tr>
+    <td><img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/cwmacro.png" width="75%" height="75%"></td>
+  </tr>  
+</table>
 
 ---
 ## Upcoming feature set roadmap
