@@ -14,7 +14,7 @@ Ligntweight and very minimalistic cross-platform Logger for ESDR3 (EE transceive
 - OS: macOS 11.x/12.x/13x x64 (Intel or Silicon) / Win 10/11 x64 Intel / Linux Ubuntu 22.04
 
 <ins>3rd party support:</ins>
-Currently supports SDC prior ver15.24 and prior via Telnet integration. In future (prior end of 2022) update SDC support will be removed and replaced with EE native Skimmer.
+Currently supports SDC prior ver15.24 via Telnet integration for 'Click on Call' function. In future (prior end of 2022) update SDC support will be removed and replaced with EE native Skimmer.
 
 <ins>Linux, Android and IOSsupport:</ins>
 There is currently known issue with Linux-based static implementation. At this stage you have to compile and run dinamic App with Qt6.2.3 on you linux machine. We are looking to fix this issue ASAP.
