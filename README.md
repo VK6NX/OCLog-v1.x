@@ -75,9 +75,10 @@ Macro example:<br>
 </table>
 
 ---
-## Changes in version 1.3
+## Release notes for version 1.3
 1. Minor bug fixes and functionality improvements:
  - Entering empty QSO record bug fixed. To record QSO by "Enter" key 3 characters required in CallSign field; by "Log" button 1 character required in CallSign field.
+ - CW speed and CW macro Stop moved from the APP main interface to CW macro window.
  - DXCC list can now be updated by user (via Settings->DXCC). There is no option for user to add new or delete old DXCC entry (if this is needed, please log issue request)
  - ADIF fields compliance with version 3.1.3 ADIF specification verified (as per https://adif.org/313/ADIF_313.htm)
  - Log duplicates verification implemented: App displays warning under CallSign field if 'CallSign', 'Band' and 'Mode' parameters already exist in log. Important - duplicate check does not verify the Date at this stage, this functionality will be added later. Hence, it is recommended to export ADIF on daily basis for contests.
