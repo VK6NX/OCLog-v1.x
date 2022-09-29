@@ -86,7 +86,7 @@ Macro example:<br>
  
 2. App Settings refactored:
 - Critical setting moved to sqlite database
-- Settings location (OS dependent):<br>
+- Database location (OS dependent):<br>
 -- macOS: $HOME/Library/Application Support/[Program Name]/QML/OfflineStorage/Databases/<br>
 -- *nix: $HOME/[Username]/.local/share/[Program Name]/QML/OfflineStorage/Databases/<br>
 -- Windows: Users\[Username]\AppData\Local\[Program Name]\QML\OfflineStorage\Databases<br>
