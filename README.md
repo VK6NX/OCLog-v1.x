@@ -85,12 +85,11 @@ Macro example:<br>
  
 2. App Settings refactored:
 - Critical setting moved to sqlite database
-- Settings location (OS dependent):
-macOS: $HOME/Library/Application Support/[Program Name]/QML/OfflineStorage/Databases/
-*nix: $HOME/[Username]/.local/share/[Program Name]/QML/OfflineStorage/Databases/
-Windows: Users\[Username]\AppData\Local\[Program Name]\QML\OfflineStorage\Databases
-
-for further details see https://doc.qt.io/qt-5/qsettings.html#platform-specific-notes
+- Settings location (OS dependent):<br>
+-- macOS: $HOME/Library/Application Support/[Program Name]/QML/OfflineStorage/Databases/
+-- *nix: $HOME/[Username]/.local/share/[Program Name]/QML/OfflineStorage/Databases/
+-- Windows: Users\[Username]\AppData\Local\[Program Name]\QML\OfflineStorage\Databases
+(for further details on settings location see https://doc.qt.io/qt-5/qsettings.html#platform-specific-notes_
 
 
 ## Upcoming feature set roadmap
