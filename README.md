@@ -27,6 +27,8 @@ Source code access requests are accepted via EE forum.
 
 ## Installation
 
+Important: if you are migrating to 1.3 from previous version, please note that you have to re-enter Station data, CW macroses and double check setting parameters. This is due to refactoring Settings in v.1.3. If there is no intention to use v1.2, then corresponding v1.2 settings can be manually deleted from your OS (note that there is no automated cleanup for old versions settings removal, however old settings will not interfere with v1.3)  
+
 ### <ins>macOS:</ins>
 - make sure you download version for your Mac processor type: intel or silicon
 - mount .dmg and move OClog app into Applications folder on your mac
