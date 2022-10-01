@@ -83,8 +83,11 @@ Macro example:<br>
  - CW speed and CW macro Stop moved from the APP main interface to CW macro window.
  - DXCC list can now be updated by user (via Settings->DXCC). There is no option for user to add new or delete old DXCC entry (if this is needed, please log issue request)
  - ADIF fields compliance with version 3.1.3 ADIF specification verified (as per https://adif.org/313/ADIF_313.htm)
+ - 3.1.3 ADIF Contest list embedded
  - Log duplicates verification implemented: App displays warning under CallSign field if the following condition matched: 'CallSign', 'Band' and 'Mode' parameters already present in the log. Important - duplicate check does not verify the Date at this stage, this functionality will be added later. Hence, it is recommended to export ADIF on daily basis for contests.
  - SRX, SRX_STRING, STX and STX_STRING parameters implemented in App interface (reflecting in ADIF export)
+ - Common, DXpedition, IOTA DXpedition and Contest modes implemented (under Contest menu in Settings)
+ 
  
 2. App Settings refactored:
 - Critical setting moved to sqlite database
