@@ -32,6 +32,8 @@ Source code access requests are accepted via EE forum.
 <ins>When NOT to use this log</ins>
 1. When current Log is intended to become main QSO storage and keep all your QSO for the last 20 years. When sqlite db can easily grow up to 256,000 gibibytes, this log operates quick, well and as expected with up to 100K QSO records (exceeding 100K recods will not stop the log, but the the performance/power/CPU consumption cannot be guqrranteed).
 2. When you need many extra features (rotator, panorama, direct access to cloud services from log, etc)
+3. When you transceiver is not SunSDR
+4. When using ESDR versions prior ESDR3
 
 ---
 
