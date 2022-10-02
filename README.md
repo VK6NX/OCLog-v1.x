@@ -96,6 +96,11 @@ Macro setup example:<br>
 <p align="center">
 <img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/cwmacro.png" width="50%" height="50%">
 </p>
+STX and STXSTR are activated when Contest mode is selected in Settings->Mode:
+<p align="center">
+<img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/cwmacro2.png" width="50%" height="50%">
+</p>
+STX is automatically increment with each contest QSO, contest STXinfo has to be entered into corresponding field.
 <br>
 
 ## Operation tips<a name = "ops"></a>
