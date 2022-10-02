@@ -69,7 +69,7 @@ Source code access requests are accepted via EE forum.
 
 ## Config<a name = "config"></a>
 <p align="center">
-<img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/skimmer-settings.png">
+<img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/skimmer-settings.png"  width="75%" height="75%">
 </p>
 
 <ins>ADIF support:</ins>
