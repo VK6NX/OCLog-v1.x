@@ -6,8 +6,16 @@ Ligntweight and very minimalistic cross-platform Logger for ESDR3 (EE transceive
 <img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/skimmer1.png" width="50%" height="50%">
 </p>
 
+## Menu
+- [Prerequisites](#prerequisites)
+- [Installation](#install)
+- [Config](#config)
+- [Operation](#ops)
+- [Release Notes](#rl1_3)
+- [Roadmap](#roadmap)
+
 ---
-## Prerequisites
+## Prerequisites<a name = "prerequisites"></a>
 - TCI 1.9 (or above)
 - ESDR3
 - EE transceiver model: SunSDR2 / SunSDR2 Pro / SunSDR2 DX. (Not tested with MB1 and QRP).
@@ -34,13 +42,6 @@ Source code access requests are accepted via EE forum.
 <b><i><ins>When NOT to use this log</ins></i></b>
 1. When current Log is intended to become main QSO storage and keep all your QSO for the last 20 years. When sqlite db can easily grow up to 256,000 gibibytes, this log operates quick, well and as expected with up to 100K QSO records (exceeding 100K recods will not stop the log, but the the performance/power/CPU consumption cannot be guqrranteed).
 2. When you need many extra features (rotator, panorama, direct access to cloud services from log, etc).
-
-## Menu
-- [Installation](#install)
-- [Config](#config)
-- [Operation](#ops)
-- [Release Notes](#rl1_3)
-- [Roadmap](#roadmap)
    
 ---
 <br>
