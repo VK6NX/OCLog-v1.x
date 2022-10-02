@@ -76,6 +76,11 @@ Macro example:<br>
   </tr>  
 </table>
 
+## Operation tips
+- It is advised to fill "Recommended" fields on Station Setup with valid data. This is because information from those fields is directly injecting into ADIF file.
+- When using Log Mode, make sure you are selected most relevant mode to your current environment to avoid operations with unnissesary fields.
+- It is recommended to export log to ADIF and clean the log before starting every new Contest or DXpedition. This is to keep proper QSO sequence numbering and prevent manual edit of the ADIF files at later stage (after ADIF export). Please note that this log was never intended as "main housekeeping storage of QSOs". (Opposite, this log assumes ClubLog or something similar is used as global storage.)
+
 ---
 ## Release notes for version 1.3
 1. Minor bug fixes and functionality improvements:
@@ -86,7 +91,7 @@ Macro example:<br>
  - 3.1.3 ADIF Contest list embedded
  - Log duplicates verification implemented: App displays warning under CallSign field if the following condition matched: 'CallSign', 'Band' and 'Mode' parameters already present in the log. Important - duplicate check does not verify the Date at this stage, this functionality will be added later. Hence, it is recommended to export ADIF on daily basis for contests.
  - SRX, SRX_STRING, STX and STX_STRING parameters implemented in App interface (reflecting in ADIF export)
- - Common, DXpedition, IOTA DXpedition and Contest modes implemented (under Contest menu in Settings)
+ - Common, DXpedition, IOTA DXpedition and Contest modes implemented (under "Mode" menu in Settings)
  
  
 2. App Settings refactored:
