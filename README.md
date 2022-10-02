@@ -7,7 +7,7 @@ Ligntweight and very minimalistic cross-platform Logger for ESDR3 (EE transceive
 </p>
 
 ---
-<b><ins>Prerequisites:</ins></b>
+## Prerequisites:
 - TCI 1.9 (or above)
 - ESDR3
 - EE transceiver model: SunSDR2 / SunSDR2 Pro / SunSDR2 DX. (Not tested with MB1 and QRP).
