@@ -83,7 +83,7 @@ Log exported in ADIF v3.1.2 (Clublog supported format) into local directory spec
 <i><b>'Settings-Connection'</i></b> specifies local or remote TCI(ESDR3) and Telnet(SDC 15.24 and below) connectivity
 
 <ins>CW macto:</ins>
-TCI-based automatic keyer support 4 sets of predefined macros, 15 buttons each set.
+TCI-based automatic keyer support 4 sets of predefined and editable macros, 15 buttons each set.
 
 Format is as following:<br>
 <b>${MYCALL}</b> is the alias for own callsign (defined in Settings)<br>
@@ -91,7 +91,7 @@ Format is as following:<br>
 <b>${SNDRST}</b> is the alias for RST sent to correspondent<br>
 <b>${QSOID}</b> is the alias for current QSO number<br>
 
-Macro example:<br>
+Macro setup example:<br>
 <p align="center">
 <img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/cwmacro.png" width="50%" height="50%">
 </p>
