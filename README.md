@@ -22,8 +22,8 @@ There is currently known issue with Linux-based static implementation. At this s
 As the App is developed with Qt6 framework, hence it can run on Android and IOS devices too (however at this stage we do not have Android and IOS versions publicly available; you have to compile it yourself from source).
 
 Source code access requests are accepted via EE forum.
-
-
+<br>
+<br>
 
 <b><i><ins>When to use this log</ins></i></b>
 1. On portable computers (in DXpedition, field ops, etc), when you need everything - ESDR3, Log, Skimmer - to fit into single 16' desktop.
