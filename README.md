@@ -23,6 +23,16 @@ As the App is developed with Qt6 framework, hence it can run on Android and IOS 
 
 Source code access requests are accepted via EE forum.
 
+<ins>When to use this log</ins>
+1. On portable computers (in DXpedition, field ops, etc), when you need everything - ESDR3, Log, Skimmer - to fit into single 16' desktop.
+2. When power saving on the computer is critical (DXpeditions and field ops).
+4. When minimum CPU/GPU consumption is the target.
+5. When multiple OS (Win, Mac, Linux, Android, iOS) and hardware platforms (intel, arm) is in use
+
+<ins>When NOT to use this log</ins>
+1. When current Log is intended to become main QSO storage and keep all your QSO for the last 20 years. When sqlite db can easily grow up to 256,000 gibibytes, this log operates quick, well and as expected with up to 100K QSO records (exceeding 100K recods will not stop the log, but the the performance/power/CPU consumption cannot be guqrranteed).
+2. When you need many extra features (rotator, panorama, direct access to cloud services from log, etc)
+
 ---
 
 ## Installation
