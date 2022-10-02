@@ -92,15 +92,17 @@ Format is as following:<br>
 <b>${STX}</b> is the alias for contest QSO transmitted serial numberr<br>
 <b>${STXSTR}</b> is the alias for contest QSO transmitted information<br>
 
+STX and STXSTR are activated when Contest mode is selected in Settings->Mode. STX is automatically increment with each contest QSO, contest STXinfo has to be entered into corresponding field.
+
 Macro setup example:<br>
 <p align="center">
 <img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/cwmacro.png" width="50%" height="50%">
 </p>
-STX and STXSTR are activated when Contest mode is selected in Settings->Mode:
+
+Contest settings example:
 <p align="center">
 <img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/cwmacro2.png" width="50%" height="50%">
 </p>
-STX is automatically increment with each contest QSO, contest STXinfo has to be entered into corresponding field.
 <br>
 
 ## Operation tips<a name = "ops"></a>
