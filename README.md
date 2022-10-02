@@ -17,7 +17,7 @@ Ligntweight and very minimalistic cross-platform Logger for ESDR3 (EE transceive
 Currently supports SDC prior ver15.24 via Telnet integration for 'Click on Call' function. In future (by end of 2022) update SDC support will be removed and replaced with EE native Skimmer.
 
 <ins>Linux, Android and IOSsupport:</ins>
-There is currently known issue with Linux-based static implementation. At this stage you have to compile and run dinamic App with Qt6.2.3 on you linux machine. We are looking to fix this issue ASAP.
+There is currently known issue with Linux-based static implementation. At this stage you have to compile and run dinamic App with Qt6.3.2 on you linux machine (note: Websockets library has to be present). We are looking to fix this issue ASAP, expected in Qt6.4.1 release.
 
 As the App is developed with Qt6 framework, hence it can run on Android and IOS devices too (however at this stage we do not have Android and IOS versions publicly available; you have to compile it yourself from source).
 
