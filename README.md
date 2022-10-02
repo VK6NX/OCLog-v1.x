@@ -83,7 +83,7 @@ Log exported in ADIF v3.1.2 (Clublog supported format) into local directory spec
 <i><b>'Settings-Connection'</i></b> specifies local or remote TCI(ESDR3) and Telnet(SDC 15.24 and below) connectivity
 
 <ins>CW macto:</ins>
-TCI-based automatic keyer support 4 sets of predefined and editable macros, 15 buttons each set.
+TCI-based automatic keyer support 4 sets of predefined and editable macros, 15 buttons each set, with full support of increase/descrease speed special chars (< << <<< > >> >>>).
 
 Format is as following:<br>
 <b>${MYCALL}</b> is the alias for own callsign (defined in Settings)<br>
