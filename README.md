@@ -52,17 +52,17 @@ Source code access requests are accepted via EE forum.
 
 ### <ins>macOS:</ins>
 - make sure you download version for your Mac processor type: intel or silicon
-- mount .dmg and move OClog app into Applications folder on your mac
+- unzip and move OClog app into Applications folder on your mac
 - accept run in Security
 
 ### <ins>Windows:</ins>
-- download archive
+- download Win archive
 - unzip
 - move folder to desired location at you computer
 - run OC_log.exe
 
 ### <ins>Linux:</ins>
-- compile from source under Qt6.3.2 dinamic
+- compile from source under Qt6.3.2 dynamic
 
 ---
 <br>
