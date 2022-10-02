@@ -101,7 +101,7 @@ Macro setup example:<br>
 - It is advised to fill "Recommended" fields on Station Setup with valid data. This is because information from those fields is directly injecting into ADIF file.
 - When using Log Mode, make sure you are selected most relevant mode to your current environment to avoid operations with unnissesary fields.
 - It is recommended to export log to ADIF and clean the log before starting every new Contest or DXpedition. This is to keep proper QSO sequence numbering and prevent manual edit of the ADIF files at later stage (after ADIF export). Please note that this log was never intended as "main housekeeping storage of QSOs". (Opposite, this log assumes ClubLog or something similar is used as global storage.)
-- To setup BAND_RX field for the ADIF, use "SDR Setup" menu. It works in combination VFO A (primary or FREQ) and VFO B (BAND_RX) or VFO B FREQ) and VFO A (BAND_RX). If combination VFO A -VFO A or VFO B-VFO B is chosen, BAND_RX field in ADIF equal '0':
+- To setup BAND_RX field for the ADIF, use "SDR" setup menu. It works in combination VFO A (primary or FREQ) and VFO B (BAND_RX) or VFO B FREQ) and VFO A (BAND_RX). If combination VFO A -VFO A or VFO B-VFO B is chosen, BAND_RX field in ADIF equal '0':
 <p align="center">
 <img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/bandrx.png" width="50%" height="50%">
 </p>
