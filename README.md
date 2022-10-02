@@ -114,6 +114,7 @@ Macro setup example:<br>
  - 3.1.3 ADIF Contest list embedded
  - Log duplicates verification implemented: App displays warning under CallSign field if the following condition matched: 'CallSign', 'Band' and 'Mode' parameters already present in the log. Important - duplicate check does not verify the Date at this stage, this functionality will be added later. Hence, it is recommended to export ADIF on daily basis for contests.
  - SRX, SRX_STRING, STX and STX_STRING parameters implemented in App interface (reflecting in ADIF export)
+ - BAND_RX implemented; works only when usinf VFO A / VFO B of TX1. Does not work at this stage with RIT/XIT and TX2 (this will be expanded in future versions).
  - Common, DXpedition, IOTA DXpedition and Contest modes implemented (under "Mode" menu in Settings)
  
  
