@@ -23,6 +23,8 @@ As the App is developed with Qt6 framework, hence it can run on Android and IOS 
 
 Source code access requests are accepted via EE forum.
 
+
+
 <b><i><ins>When to use this log</ins></i></b>
 1. On portable computers (in DXpedition, field ops, etc), when you need everything - ESDR3, Log, Skimmer - to fit into single 16' desktop.
 2. When power saving on the computer is critical (DXpeditions and field ops).
