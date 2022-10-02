@@ -7,7 +7,7 @@ Ligntweight and very minimalistic cross-platform Logger for ESDR3 (EE transceive
 </p>
 
 ---
-## Prerequisites:
+## Prerequisites
 - TCI 1.9 (or above)
 - ESDR3
 - EE transceiver model: SunSDR2 / SunSDR2 Pro / SunSDR2 DX. (Not tested with MB1 and QRP).
@@ -35,10 +35,17 @@ Source code access requests are accepted via EE forum.
 1. When current Log is intended to become main QSO storage and keep all your QSO for the last 20 years. When sqlite db can easily grow up to 256,000 gibibytes, this log operates quick, well and as expected with up to 100K QSO records (exceeding 100K recods will not stop the log, but the the performance/power/CPU consumption cannot be guqrranteed).
 2. When you need many extra features (rotator, panorama, direct access to cloud services from log, etc).
 
+## Меню
+- [Installation](#install)
+- [Config](#config)
+- [Operation](#ops)
+- [Release Notes](#rl1_3)
+- [Roadmap](#roadmap)
+   
 ---
 <br>
 
-## Installation
+## Installation<a name = "install"></a>
 
 <b>Important</b>: if you are migrating to 1.3 from previous version, please note that you have to re-enter Station data, CW macroses and double check setting parameters. This is due to refactoring Settings in v.1.3. If there is no intention to use v1.2 after installing 1.3, then corresponding v1.2 settings can be manually deleted from your OS (note that there is no automated cleanup for old versions settings removal, however old settings will not interfere with v1.3)  
 
@@ -59,7 +66,7 @@ Source code access requests are accepted via EE forum.
 ---
 <br>
 
-## Config
+## Config<a name = "config"></a>
 <p align="center">
 <img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/skimmer-settings.png" width="50%" height="50%">
 </p>
@@ -92,7 +99,7 @@ Macro example:<br>
 
 <br>
 
-## Operation tips
+## Operation tips<a name = "ops"></a>
 - It is advised to fill "Recommended" fields on Station Setup with valid data. This is because information from those fields is directly injecting into ADIF file.
 - When using Log Mode, make sure you are selected most relevant mode to your current environment to avoid operations with unnissesary fields.
 - It is recommended to export log to ADIF and clean the log before starting every new Contest or DXpedition. This is to keep proper QSO sequence numbering and prevent manual edit of the ADIF files at later stage (after ADIF export). Please note that this log was never intended as "main housekeeping storage of QSOs". (Opposite, this log assumes ClubLog or something similar is used as global storage.)
@@ -100,7 +107,7 @@ Macro example:<br>
 ---
 <br>
 
-## Release notes for version 1.3
+## Release notes for version 1.3<a name = "rl1_3"></a>
 1. Minor bug fixes and functionality improvements:
  - Entering empty QSO record bug fixed. To record QSO by "Enter" key 3 characters required in CallSign field; by "Log" button 1 character required in CallSign field.
  - CW speed and CW macro Stop moved from the APP main interface to CW macro window.
@@ -121,8 +128,8 @@ Macro example:<br>
 (for further details on settings location see https://doc.qt.io/qt-5/qsettings.html#platform-specific-notes)<br>
 
 
-## Upcoming feature set roadmap
+## Upcoming feature set roadmap<a name = "roadmap"></a>
 
 - EE native Skimmer (and EE-based Dev version) seamless integration (ETA end of Oct'22). And the same time Telnet will be superseeded by TCI.
 - SSB macros (ETA early '23)
-- Configurable contest parameter (i.e. Country, Zone, etc), reflected in CW macros.
+
