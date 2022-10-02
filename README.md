@@ -38,7 +38,6 @@ Source code access requests are accepted via EE forum.
 2. When power saving on the computer is critical (DXpeditions and field ops).
 4. When minimum CPU/GPU consumption is the target.
 5. When multiple OS (Win, Mac, Linux, Android, iOS) and hardware platforms (intel, arm) are in use
-6. When main mode is CW
 
 <b><i><ins>When NOT to use this log</ins></i></b>
 1. When current Log is intended to become main QSO storage and keep all your QSO for the last 20 years. When sqlite db can easily grow up to 256,000 gibibytes, this log operates quick, well and as expected with up to 100K QSO records (exceeding 100K recods will not stop the log, but the the performance/power/CPU consumption cannot be guqrranteed).
