@@ -128,7 +128,7 @@ Macro setup example:<br>
 
 ## Upcoming feature set roadmap<a name = "roadmap"></a>
 
-This log is in active development at current (as of Oct 2022) moment. It is lined up with current ESDR3 development, targeting full log functionality by the ESDR3 v.10 release.
+This log is in active development at current (as of Oct 2022) moment. It is lined up with ESDR3 development, targeting full log functionality by the ESDR3 v.10 release.
 
 - EE native Skimmer (and EE-based Dev version) seamless integration (ETA end of Oct'22). And the same time Telnet will be superseeded by TCI.
 - SSB macros (ETA early '23)
