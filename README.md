@@ -87,9 +87,9 @@ TCI-based automatic keyer support 4 sets of predefined and editable macros, 15 b
 
 Format is as following:<br>
 <b>${MYCALL}</b> is the alias for own callsign (defined in Settings)<br>
-<b>${RCVCALL}</b> is the alias for correspondent callsign (defined in CALLSIGN field<br>
+<b>${RCVCALL}</b> is the alias for correspondent callsign (defined in CALLSIGN field)<br>
 <b>${SNDRST}</b> is the alias for RST sent to correspondent<br>
-<b>${QSOID}</b> is the alias for current QSO number<br>
+<b>${QSOID}</b> is the alias for current QSO sequence number<br>
 
 Macro setup example:<br>
 <p align="center">
