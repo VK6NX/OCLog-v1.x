@@ -3,7 +3,7 @@
 <p align="center">
 Ligntweight and very minimalistic cross-platform Logger for ESDR3 (EE transceivers SS2/SS2Pro/DX)<br>
 <br>
-<img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/skimmer1.png" width="50%" height="50%">
+<img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/mainview.png">
 </p>
 
 ## Menu
