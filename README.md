@@ -1,7 +1,7 @@
 # OCLog-v1.x
 
 <p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=https://github.com/VK6NX/OCLog-v1.x/blob/main/README.md>Русская версия readme</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=https://github.com/VK6NX/OCLog-v1.x/blob/main/README-RU.md>Русская версия readme</a><br>
  <br>
 Ligntweight and very minimalistic cross-platform Logger for ESDR3 (EE transceivers SS2/SS2Pro/DX)<br>
 <br>
