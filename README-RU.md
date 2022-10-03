@@ -18,7 +18,7 @@
 ## Требования<a name = "prerequisites"></a>
 - TCI версии 1.9 (и выше) (является частью ESDR3, версия TCI зависит от версии ESDR3)
 - ESDR3
-- EE трансивер модели: SunSDR2 / SunSDR2 Pro / SunSDR2 DX. (не тестировалось с MB1 QRP).
+- EE трансивер модели: SunSDR2 / SunSDR2 Pro / SunSDR2 DX. (не тестировалось с MB1 и QRP).
 - OS: macOS 11.x/12.x/13x x64 (Intel или Silicon) / Win 10/11 x64 Intel / Linux Ubuntu 22.04
 
 <ins>Поддержка сторонних программ:</ins>
