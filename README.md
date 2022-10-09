@@ -117,10 +117,10 @@ Contest settings example:
 </p>
 
 ### Database location (OS dependent):
-    -- macOS: $HOME/Library/Application Support/[Program Name]/QML/OfflineStorage/Databases/
-    -- *nix: $HOME/[Username]/.local/share/[Program Name]/QML/OfflineStorage/Databases/
-    -- Windows: Users[Username]\AppData\Local[Program Name]\QML\OfflineStorage\Databases
-    (for further details on settings location see https://doc.qt.io/qt-5/qsettings.html#platform-specific-notes)
+- macOS: $HOME/Library/Application Support/[Program Name]/QML/OfflineStorage/Databases/
+- *nix: $HOME/[Username]/.local/share/[Program Name]/QML/OfflineStorage/Databases/
+- Windows: Users[Username]\AppData\Local[Program Name]\QML\OfflineStorage\Databases
+(for further details on settings location see https://doc.qt.io/qt-5/qsettings.html#platform-specific-notes)
 
 ---
 <br>
