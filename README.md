@@ -116,6 +116,12 @@ Contest settings example:
 <img src="https://github.com/VK6NX/OCLog-v1.x/blob/main/images/bandrx.png" width="50%" height="50%">
 </p>
 
+### Database location (OS dependent):
+    -- macOS: $HOME/Library/Application Support/[Program Name]/QML/OfflineStorage/Databases/
+    -- *nix: $HOME/[Username]/.local/share/[Program Name]/QML/OfflineStorage/Databases/
+    -- Windows: Users[Username]\AppData\Local[Program Name]\QML\OfflineStorage\Databases
+    (for further details on settings location see https://doc.qt.io/qt-5/qsettings.html#platform-specific-notes)
+
 ---
 <br>
 
@@ -125,7 +131,8 @@ Contest settings example:
 3. BandRX field implemented (for split mode)
 4. Contest/DXpedition/Common log modes implemented
 5. Russian localization added
-6. Minor ug fixes and functionality improvementstps://doc.qt.io/qt-5/qsettings.html#platform-specific-notes)<br>
+6. Minor ug fixes and functionality improvementstps
+
 
 ## Upcoming feature set roadmap<a name = "roadmap"></a>
 
