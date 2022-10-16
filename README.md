@@ -42,7 +42,7 @@ Source code access requests are accepted via EE forum or/and associated Telegram
 5. When multiple OS (Win, Mac, Linux, Android, iOS) and hardware platforms (intel, arm) are in use
 
 <b><i><ins>When NOT to use this log</ins></i></b>
-1. When current Log is intended to become main QSO storage and keep all your QSO for the last 20 years. When sqlite db can easily grow up to 256,000 gibibytes, this log operates quick, well and as expected with up to 100K QSO records (exceeding 100K recods will not stop the log, but the the performance/power/CPU consumption cannot be guqrranteed).
+1. When log is intended to become main QSO storage and keep all your QSO for the last 20 years. Even sqlite db can easily grow up to 256,000 gigabytes, OClog targeted to operate with up to 100K QSO records to keep the performance on. Exceeding 100K log records will not stop the log, but the the performance/power/CPU consumption cannot be guarranteed.
 2. When you need many extra features (rotator, panorama, direct access to cloud services from log, etc).
    
 ---
