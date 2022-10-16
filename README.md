@@ -75,7 +75,7 @@ Source code access requests are accepted via EE forum or/and associated Telegram
 </p>
 
 <ins>ADIF support:</ins>
-Log exported in ADIF v3.1.2 (Clublog supported format) into local directory specified in <i><b>'Settings-Log Info-Path'</i></b>
+Log exported in ADIF v3.1.2 (Clublog supported format) into local directory specified in <i><b>'Settings-Log Export-Path'</i></b>
 <br>
 <br>
 <ins>General config:</ins>
