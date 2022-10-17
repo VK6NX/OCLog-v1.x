@@ -125,7 +125,10 @@ Contest settings example:
 ---
 <br>
 
-## Release notes for version 1.3.1<a name = "rl1_3"></a>
+## Release notes for version 1.3.1 update 1<a name = "rl1_3"></a>
+1. Minor feature add: now RS<->RST automatically switched wnen mode selected in ESDR3 (i.e. 5NN for CW, 59 for any other mode)
+
+## Release notes for version 1.3.1
 1. Main window UI design changed
 2. Log updated view and log export UI changed. 
 3. BandRX field implemented (for split mode)
