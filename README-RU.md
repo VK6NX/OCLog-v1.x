@@ -117,6 +117,7 @@
 -- macOS: $HOME/Library/Application Support/[Program Name]/QML/OfflineStorage/Databases/<br>
 -- *nix: $HOME/[Username]/.local/share/[Program Name]/QML/OfflineStorage/Databases/<br>
 -- Windows: Users\[Username]\AppData\Local\[Program Name]\QML\OfflineStorage\Databases<br>
+<br>
 (подробности смотрите в https://doc.qt.io/qt-5/qsettings.html#platform-specific-notes)<br>
 
 ---
