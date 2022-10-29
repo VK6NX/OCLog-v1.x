@@ -129,7 +129,7 @@ Contest settings example:
 ## Release notes for version 1.3.1 update 2<a name = "rl1_3"></a>
 1. Minor bugfix: DXCC table is updated
 
-## Release notes for version 1.3.1 update 1<
+## Release notes for version 1.3.1 update 1
 1. Minor feature add: now RS<->RST automatically switched wnen mode selected in ESDR3 (i.e. 5NN for CW, 59 for any other mode)
 
 ## Release notes for version 1.3.1
