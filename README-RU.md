@@ -122,8 +122,10 @@
 
 ---
 <br>
+## Release notes для версии 1.3.1 update 2<a name = "rl1_3"></a>
+1. Поправлена DXCC таблица
 
-## Release notes для версии 1.3.1 update 1<a name = "rl1_3"></a>
+## Release notes для версии 1.3.1 update 1
 1. Добавлена фича автоматического переключения RS<->RST в зависимости от выбранного mode в ESDR3 (5NN для CW, 59 для всех остальных)
 
 ## Release notes для версии 1.3.1
