@@ -125,8 +125,11 @@ Contest settings example:
 
 ---
 <br>
+## Release notes for version 1.3.1 update 3<a name = "rl1_3"></a>
+1. Minor update in DXCC table
+2. Bugfix in click-to-enter skimmer function
 
-## Release notes for version 1.3.1 update 2<a name = "rl1_3"></a>
+## Release notes for version 1.3.1 update 2<
 1. Minor bugfix: DXCC table is updated
 
 ## Release notes for version 1.3.1 update 1
