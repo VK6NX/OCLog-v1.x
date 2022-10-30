@@ -122,8 +122,11 @@
 
 ---
 <br>
+## Release notes для версии 1.3.1 update 3<a name = "rl1_3"></a>
+1. Добавлены данные в DXCC таблицу.
+2. Поправлена функция передачи позывного в лог из скиммера
 
-## Release notes для версии 1.3.1 update 2<a name = "rl1_3"></a>
+## Release notes для версии 1.3.1 update 2
 1. Поправлена DXCC таблица.
 
 ## Release notes для версии 1.3.1 update 1
