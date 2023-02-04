@@ -129,9 +129,9 @@ Contest settings example:
 (for further details on settings location see https://doc.qt.io/qt-5/qsettings.html#platform-specific-notes)
 
 ---
-
-
 <br>
+
+
 ## Release notes for version 1.3.1 update 4<a name = "rl1_4"></a>
 1. Connectivity add-on in preparation of TCI Skimmer release
 
@@ -139,7 +139,7 @@ Contest settings example:
 1. Minor update in DXCC table
 2. Bugfix in click-to-enter skimmer function
 
-## Release notes for version 1.3.1 update 2<
+## Release notes for version 1.3.1 update 2
 1. Minor bugfix: DXCC table is updated
 
 ## Release notes for version 1.3.1 update 1
