@@ -133,7 +133,7 @@ Contest settings example:
 ## Release notes for version 1.3.1 update 4<a name = "rl1_4"></a>
 1. Connectivity add-on in preparation of TCI Skimmer release
 
-## Release notes for version 1.3.1 update 3<a name = "rl1_3"></a>
+## Release notes for version 1.3.1 update 3
 1. Minor update in DXCC table
 2. Bugfix in click-to-enter skimmer function
 
