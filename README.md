@@ -13,7 +13,7 @@ Ligntweight and very minimalistic cross-platform Logger for ESDR3 (EE transceive
 - [Installation](#install)
 - [Config](#config)
 - [Operation](#ops)
-- [Release Notes](#rl1_3)
+- [Release Notes](#rl1_4)
 - [Roadmap](#roadmap)
 
 ---
@@ -130,6 +130,8 @@ Contest settings example:
 
 ---
 <br>
+## Release notes for version 1.3.1 update 4<a name = "rl1_4"></a>
+1. Connectivity add-on in preparation of TCI Skimmer release
 
 ## Release notes for version 1.3.1 update 3<a name = "rl1_3"></a>
 1. Minor update in DXCC table
