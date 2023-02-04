@@ -64,7 +64,12 @@ Source code access requests are accepted via EE forum or/and associated Telegram
 - run OC_log.exe
 
 ### <ins>Linux:</ins>
-- compile from source under Qt6.3.2 dynamic
+Starting from 1.3.1 update 4 Ubuntu 22.04 and Mint 21.1 apps are available
+- download relative archive
+- unarchive
+- move folder to desired location at you computer
+- run ./AppRun
+
 
 ---
 <br>
