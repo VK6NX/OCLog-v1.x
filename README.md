@@ -21,7 +21,7 @@ Ligntweight and very minimalistic cross-platform Logger for ESDR3 (EE transceive
 - TCI 1.9 (or above)
 - ESDR3
 - EE transceiver model: SunSDR2 / SunSDR2 Pro / SunSDR2 DX. (Not tested with MB1 and QRP).
-- OS: macOS 11.x/12.x/13x x64 (Intel or Silicon) / Win 10/11 x64 Intel / Linux Ubuntu 22.04
+- OS: macOS 11.x/12.x/13x x64 (Intel or Silicon) | Win 10/11 x64 Intel | Linux Ubuntu 22.04 / Mint 21.1
 
 <ins>3rd party support:</ins>
 Currently supports SDC prior/equal ver15.24 via Telnet integration for 'Click on Call' function. In future (by end of 2022) update SDC support will be removed and replaced with EE native Skimmer.
