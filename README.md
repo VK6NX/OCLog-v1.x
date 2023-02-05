@@ -158,6 +158,6 @@ Contest settings example:
 
 This log is in active development at current (as of Oct 2022) moment. It is lined up with ESDR3 development, works with every ESDR3 Alpha release and targeting full log functionality by the ESDR3 v.1.0 release.
 
-- EE native Skimmer (and EE-based Dev version) seamless integration (ETA end of Nov'22). And the same time Telnet will be superseeded by TCI.
-- SSB macros (ETA early '23)
+- EE native Skimmer (and EE-based Dev version) seamless integration (work in progress). And the same time Telnet will be superseeded by TCI.
+- SSB macros (ETA year '23)
 
