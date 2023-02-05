@@ -112,6 +112,9 @@ Contest settings example:
 </p>
 <br>
 
+<ins>TCI Skimmer / TCI Skimmer Lite integration (WIP):</ins>
+The Log 'mode' (Common, DXpedition, Contest) is synch with TCI Skimmer. Once Log 'mode' changed, this triggers configuration update sent to Skimmer. By receiving configuration request from the Log, TCI Skimmer updates it operation mode respectively and this triggers specific decoding algorythm in force.
+
 ## Operation tips<a name = "ops"></a>
 - It is advised to fill "Recommended" fields on Station Setup with valid data. This is because information from those fields is directly injecting into ADIF file.
 - When using Log Mode, make sure you are selected most relevant mode to your current environment to avoid operations with unnissesary fields.
