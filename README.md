@@ -160,4 +160,3 @@ This log is in active development at current (as of Oct 2022) moment. It is line
 
 - EE native Skimmer (and EE-based Dev version) seamless integration (work in progress). And the same time Telnet will be superseeded by TCI.
 - SSB macros (ETA year '23)
-
