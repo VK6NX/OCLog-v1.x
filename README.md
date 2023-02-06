@@ -67,8 +67,12 @@ Source code access requests are accepted via EE forum or/and associated Telegram
 Starting from 1.3.1 update 4 Ubuntu 22.04 and Mint 21.1 apps are available
 - download relative archive
 - unarchive
-- move folder to desired location at you computer
-- run ./AppRun
+- cd Downloads/OClog
+- verify permission on 'install.sh' to be executable 
+- sudo 'path-to/Downloads/OClog/install.sh'
+
+Script will install application into /opt/OClog and create link into Show/Applications
+Start common mode by clicking the OClog link in Applications; for debug mode start in Terminal ./OClog.sh from /opt/OClog
 
 
 ---
